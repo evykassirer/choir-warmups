@@ -4,8 +4,8 @@
   "private": true,
   "homepage": " https://evykassirer.github.io/choir-warmups",
   "dependencies": {
-    "material-ui": "^0.20.0",
     "gh-pages": "^1.1.0",
+    "material-ui": "^0.20.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
