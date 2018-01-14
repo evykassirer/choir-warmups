@@ -24,9 +24,30 @@
       "description": "Everyone turns to the side to make a line and asks the person in front of them if they would like a massage (consent is important!). If yes, massage the neck and back, maybe leaning backwards into the person massaging them. Perhaps some music on the piano can accompany this. Fun extra: add some soft karate chops accross shoulder and backs. If the singers sing [a] it will have fun, relaxed vibrato.",
       "warmup_source": {
         "text": "The Perfect Blend by Timothy Seelig, p16-17",
-        "url": "https://www.jwpepper.com/3303246.item#/submit"
+        "url": "https://www.jwpepper.com/3303246.item"
       },
       "love_because": "it gets the body energized and helps choristers bond with each other."
+    },
+    {
+      "name": "sibilant exercise",
+      "tags": ["breath"],
+      "description": "Place both hands on the upper abdomen, thumbs touching lower ribs, little fingers near the waist, middle fingers just touching. Then release the abdominal muscles and expand the ribs to fill the lungs from the bottom up. The middle fingers should part slightly (a good sign that breathing muscles are being used correctly). The abdomen should feel firm with a small bit of give (like a firm mattress). Hold this expanded position briefly and observe how it feels. The goal is to maintain this expanded position (within reason) while saying [s] (hissing) or [v] (and ultimately, always while singing). If hissing, keep the vocal folds (muscles in your throat) open. Using the abdominal muscles and intercostal muscles (the muscles in your lungs), try to have the air flow out at a slow steady rate, all the while trying to keep the abdominal and rib area expanded (i.e. fingers still not touching), allowing collapse only at the very end (but within reason, and not causing strain).",
+      "warmup_source": {
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p37",
+        "url": "http://www.vocaltechnique.info/"
+      },
+      "love_because": "it's a very focused and in depth description of healthy breathing technique and how to use breath to support singing. Watching the fingers on the abdomen is a great way to stay accountable during this exercise."
+    },
+    {
+      "name": "arpeggiated triads",
+      "tags": ["breath", "vowel shape"],
+      "description": "Sing arpeggiated triads on an open vowel (e.g. ah, oh) or with tongue/lip trills, paying attention to variation in tone quality or vowel shape, trying to keep the sound very consistent over multiple notes by keeping breath support consistent.",
+      "image": "arpeggiated_triad.png",
+      "warmup_source": {
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p39",
+        "url": "http://www.vocaltechnique.info/"
+      },
+      "love_because": "it's a very focused and in depth description of healthy breathing technique and how to use breath to support singing. Watching the fingers on the abdomen is a great way to stay accountable during this exercise."
     }
   ]
 }
