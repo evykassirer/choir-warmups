@@ -1,9 +1,32 @@
 {
   "warmups": [
     {
-      "name": "I have a very lovely bottom note",
+      "name": "body shake",
+      "tags": ["loosen body", "brain puzzle", "smile"],
+      "description": "Start with your right hand. Shake it out 8 times. Then shake from the elbow down 8 times. Then shake your whole right arm 8 times. Do the same for the left arm. Do the same for each leg (first the foot, then the lower half of the leg, then the whole leg). Then shake your whole body around 8 times! (If you look silly, you're doing it right.) Next do each shake again but only 4 times each. Then repeat with 2 times each. Finally (and it's pretty much impossible to do this correctly if you're going quickly enough) shake them out just once each.",
+      "warmup_source": {
+        "text": "Jackie Hawley (original source unknown)"
+      },
+      "love_because": "it loosens up the body pretty effectively. It requires a fair bit of focus, which helps the choir become more mentally present at rehearsal. It's also super silly and fun, and I love some good fun to kick off rehearsal."
+    },
+    {
+      "name": "I have a very lovely bottom ...note",
       "tags": ["low range", "smile"],
-      "description": "I have a very lovely bottom (S F F M M R R D D) note (D)"
+      "image": "lovely_bottom.png",
+      "warmup_source": {
+        "text": "unknown (Jackie Hawley or someone that worked with Cantiamo?)"
+      },
+      "love_because": "it puts a smile on people's faces. It's silly and fun to sing. I also like the 'o' vowels and 'm' / 'n' consonants at the end of this warmup - they help things feel relaxed and resonant at the edges of one's range."
+    },
+    {
+      "name": "massage chain",
+      "tags": ["loosen body", "chorister connection"],
+      "description": "Everyone turns to the side to make a line and asks the person in front of them if they would like a massage (consent is important!). If yes, massage the neck and back, maybe leaning backwards into the person massaging them. Perhaps some music on the piano can accompany this. Fun extra: add some soft karate chops accross shoulder and backs. If the singers sing [a] it will have fun, relaxed vibrato.",
+      "warmup_source": {
+        "text": "The Perfect Blend by Timothy Seelig, p16-17",
+        "url": "https://www.jwpepper.com/3303246.item#/submit"
+      },
+      "love_because": "it gets the body energized and helps choristers bond with each other."
     }
   ]
 }
