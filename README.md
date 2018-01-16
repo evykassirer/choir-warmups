@@ -10,3 +10,8 @@ This is why one of the biggest projects I’m working on this term will be readi
 
 The simple version is already [live at https://evykassirer.github.io/choir-warmups/](https://evykassirer.github.io/choir-warmups/), but also have many plans for many [changes and features](https://github.com/evykassirer/choir-warmups/issues).
 
+### Development
+
+Running locally: `npm start` runs the app in the development mode at [http://localhost:3000](http://localhost:3000). The page will reload if you make edits. You will also see any lint errors in the console.
+
+Deploying: `npm run deploy`
