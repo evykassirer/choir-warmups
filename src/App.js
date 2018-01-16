@@ -5,6 +5,7 @@ import Divider from 'material-ui/Divider';
 
 import './App.css';
 import logo from './logo.gif';
+import githubIcon from './github-icon.png';
 import warmups from './warmups.json';
 
 class App extends Component {
@@ -30,6 +31,14 @@ class App extends Component {
             {warmupComponents}
           </List>
         </div>
+      </div>
+      <div className="view-source">
+        <img src={githubIcon} className="github-icon" alt="github icon"/>
+        <a
+          href="https://github.com/evykassirer/choir-warmups"
+          className="view-source-link">
+          View source code on GitHub
+        </a>
       </div>
     </MuiThemeProvider>;
   }
