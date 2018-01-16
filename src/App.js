@@ -10,6 +10,10 @@ import warmups from './warmups.json';
 class App extends Component {
   render() {
     const warmupList = warmups["warmups"];
+    warmupList.sort(function(a, b) {
+        return a.name.toLowerCase() > b.name.toLowerCase();
+    });
+
     const warmupComponents = [<Divider/>];
     for (const warmup of warmupList) {
       warmupComponents.push(<Warmup key={warmup.name} data={warmup}/>);
