@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {List, ListItem} from 'material-ui/List';
-import Subheader from 'material-ui/Subheader';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import Divider from 'material-ui/Divider';
 
@@ -53,6 +52,7 @@ class Warmup extends Component {
         disabled={true}
         children={<img
           src={`${process.env.PUBLIC_URL}/warmup_images/${data.image}`}
+          alt={data.name}
           className="warmup-image"
         />}
       />)
