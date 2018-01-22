@@ -83,20 +83,40 @@ class Warmup extends Component {
       />)
     }
 
-    if (data.warmup_source && data.warmup_source.text) {
-      let source = data.warmup_source.text;
-      if (data.warmup_source.url) {
-        source = <a href={data.warmup_source.url} className="warmup-source-link">
-          {source}
-        </a>
+    if (data.warmup_sources && data.warmup_sources.length) {
+      let source_elements = [];
+
+      for (let i = 0; i < data.warmup_sources.length; i++) {
+        const source = data.warmup_sources[i];
+        let source_text = source.text;
+        if (!source_text) continue;
+
+        if (source.url) {
+          source_elements.push(
+            <a href={source.url} className="warmup-source-link">
+              {source_text}
+            </a>
+          );
+        }
+        else {
+          source_elements.push(<span>{source_text}</span>);
+        }
       }
+
+      if (source_elements.length > 1) {
+        source_elements = <ul className="warmup-source-list">
+          {source_elements.map(source => <li>{source}</li>)}
+        </ul>;
+      }
+
       nestedItems.push(<ListItem
         key={"source"}
         disabled={true}
         children={<div className="warmup-source">
           <span className="warmup-section-title">
-            Source:
-          </span> {source}
+            {source_elements.length === 1 ? "Source: " : "Sources:"}
+          </span>
+          {source_elements}
         </div>}
       />)
     }

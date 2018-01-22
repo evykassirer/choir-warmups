@@ -4,9 +4,9 @@
       "name": "body shake",
       "tags": ["loosen body", "brain puzzle", "smile"],
       "description": "Start with your right hand. Shake it out 8 times. Then shake from the elbow down 8 times. Then shake your whole right arm 8 times. Do the same for the left arm. Do the same for each leg (first the foot, then the lower half of the leg, then the whole leg). Then shake your whole body around 8 times! (If you look silly, you're doing it right.) Next do each shake again but only 4 times each. Then repeat with 2 times each. Finally (and it's pretty much impossible to do this correctly if you're going quickly enough) shake them out just once each.",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "Jackie Hawley (original source unknown)"
-      },
+      }],
       "love_because": "it loosens up the body pretty effectively. It requires a fair bit of focus, which helps the choir become more mentally present at rehearsal. It's also super silly and fun, and I love some good fun to kick off rehearsal."
     },
     {
@@ -14,29 +14,29 @@
       "tags": ["low range", "smile"],
       "description": "Repeat the exercise below, moving down a semitone each time.",
       "image": "lovely_bottom.png",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "unknown (Jackie Hawley or someone that worked with Cantiamo?)"
-      },
+      }],
       "love_because": "it puts a smile on people's faces. It's silly and fun to sing. I also like the 'o' vowels and 'm' / 'n' consonants at the end of this warmup - they help things feel relaxed and resonant at the edges of one's range."
     },
     {
       "name": "massage chain",
       "tags": ["loosen body", "chorister connection"],
       "description": "Everyone turns to the side to make a line and asks the person in front of them if they would like a massage (consent is important!). If yes, massage the neck and back, maybe leaning backwards into the person massaging them. Perhaps some music on the piano can accompany this. Fun extra: add some soft karate chops accross shoulder and backs. If the singers sing [a] it will have fun, relaxed vibrato.",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "The Perfect Blend by Timothy Seelig, p16-17",
         "url": "https://www.jwpepper.com/3303246.item"
-      },
+      }],
       "love_because": "it gets the body energized and helps choristers bond with each other."
     },
     {
       "name": "sibilant exercise",
       "tags": ["breath"],
       "description": "Place both hands on the upper abdomen, thumbs touching lower ribs, little fingers near the waist, middle fingers just touching. Then release the abdominal muscles and expand the ribs to fill the lungs from the bottom up. The middle fingers should part slightly (a good sign that breathing muscles are being used correctly). The abdomen should feel firm with a small bit of give (like a firm mattress). Hold this expanded position briefly and observe how it feels. The goal is to maintain this expanded position (within reason) while saying [s] (hissing) or [v] (and ultimately, always while singing). If hissing, keep the vocal folds (muscles in your throat) open. Using the abdominal muscles and intercostal muscles (the muscles in your lungs), try to have the air flow out at a slow steady rate, all the while trying to keep the abdominal and rib area expanded (i.e. fingers still not touching), allowing collapse only at the very end (but within reason, and not causing strain).",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p37",
         "url": "http://www.vocaltechnique.info/"
-      },
+      }],
       "love_because": "it's a very focused and in depth description of healthy breathing technique and how to use breath to support singing. Watching the fingers on the abdomen is a great way to stay accountable during this exercise."
     },
     {
@@ -44,10 +44,10 @@
       "tags": ["breath", "vowel shape"],
       "description": "Sing arpeggiated triads on an open vowel (e.g. ah, oh), paying attention to variation in tone quality or vowel shape, trying to keep the sound very consistent over multiple notes by keeping breath support consistent.",
       "image": "arpeggiated_triad.png",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p39",
         "url": "http://www.vocaltechnique.info/"
-      },
+      }],
       "love_because": "it practices breath technique alongside pitched notes (with a simple melodic pattern, keeping the focus on the breath). The range of notes over a fifth will at some starting pitch switch over registers and help singers practice how to support that."
     },
     {
@@ -55,48 +55,54 @@
       "tags": ["breath", "enunciation"],
       "description": "Repeat the passage below, focusing on really clearly and crisply enunciating all the consonants. Feel the abdomen bouncing with each 'ts'. Try to do each repitition without taking a breath in the middle.",
       "image": "ptkfshh.png",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "Jackie Hawley (original source unknown)"
-      },
+      }],
       "love_because": "it combines a lot of different consonants and lets singers really focus on how clear they can really make their consonants, and how much the abdominal muscles help with this."
     },
     {
       "name": "pat down",
       "tags": ["loosen body"],
       "description": "Starting with both hands patting, you can move up and down the front of your body from belly to thighs to ankles and then up the back from ankles to bottom and then up to the shoulders, the cheeks, and the top of the head. You can use each arm to pat down the other arm. When you pat your stomach, it's often fun to sing 'ahhh' and hear the vibration in the voice.",
-      "warmup_source": {
-              "text": "The Perfect Blend by Timothy Seelig, p17",
-              "url": "https://www.jwpepper.com/3303246.item"
-            },
+      "warmup_sources": [{
+        "text": "The Perfect Blend by Timothy Seelig, p17",
+        "url": "https://www.jwpepper.com/3303246.item"
+      }],
       "love_because": "it wakes up the body and gets the blood pumping to everywhere in a fun, silly way."
     },
     {
       "name": "stretch with deep breath",
       "tags": ["loosen body", "breath"],
       "description": "Start standing up with the palms pressed together in front of the chest. Then, inhaling, bring your hands up as far as you can, reaching your fingertips to the sky. When they can't go any higher, exhale and let your hands naturally drift apart and circle down to your sides. Repeat.",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "A pilates instructor, taught to Mark Vuorinen, who used it in rehearsal with me"
-      },
+      }],
       "love_because": "breathing in sync as a choir brings a sense of connection to each other. Focusing on the breath and the sensation of the body as it stretches makes me, at least, feel very calm and present. When I bring this sense of presense to the rehearsal, I am able to focus better."
     },
     {
       "name": "hang-ah",
       "tags": ["resonance", "vowel shape"],
       "description": "Sing ŋ (like the 'ng' in 'ring') on a pitch, feel the vibration in the face, and then drop the jaw and open to 'ah'. I've also seen this done with humming first: 'mm - nn - ŋ - ahh' where m allows for a relaxed jaw, n allows for tone focused behind the teeth, and ŋ has the most buzz.",
-      "warmup_source": {
-        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p83 (also The Perfect Blend p46 - TODO allow for multiple sources)",
-        "url": "http://www.vocaltechnique.info/"
-      },
+      "warmup_sources": [
+        {
+          "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p83",
+          "url": "http://www.vocaltechnique.info/"
+        },
+        {
+          "text": "The Perfect Blend by Timothy Seelig, p46",
+          "url": "https://www.jwpepper.com/3303246.item"
+        }
+      ],
       "love_because": "it emphasizes the feeling of raising the soft palate. To sing ŋ, the soft palate must be lowered, and it can be felt against the tongue in the back of the mouth. When you switch to ahh, it's a stark contrast when the soft palate is lifted and resonance moves from a nasal sound to a nonnasal sound. Feeling the two extremes helps build better technique for open vowels."
     },
     {
       "name": "bumble bee (lip trills)",
       "tags": ["breath", "resonance"],
       "description": "With the lips loosely resting together, blow air through them such that they trill. This can be used for any song, arpeggio, scale - for anything! I used to have trouble with this and found that pushing on my cheeks with my index fingers helped push my lips into the right position.",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "The Perfect Blend by Timothy Seelig, p11 + p41",
         "url": "https://www.jwpepper.com/3303246.item"
-      },
+      }],
       "love_because": "lip trills are great for relaxing the face and reducing tension. Dr. Ingo Titze lists several reasons why lip trills are great: engages respiratory muscles quickly; minimizes force on vocal folds; spreads the vocal folds so that only the edges are vibrating; lowering the phonation threshold"
     },
     {
@@ -104,10 +110,10 @@
       "tags": ["vowel shape", "resonance"],
       "description": "Select a medium pitch. Place your finger at the side of your face and in front of your mouth (like a bird beak, see picture). Make the brightest, most forward, white toothy 'ah' you can make. Then, without changing the shape of your lips and keeping the 'ah' vowel, move the finger back along the side of the face to just behind the ear (like a shadow puppet swan, see picture). As the finger moves, the space moves, mirroring the placement of the finger. Midpoint should be a well balanced sound and as it moves back, make as dark and even swalled sound as you can.",
       "image": "baby_bird_swan.png",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "The Perfect Blend by Timothy Seelig, p69",
         "url": "https://www.jwpepper.com/3303246.item"
-      },
+      }],
       "love_because": "it's a super effective way to communicate variation in vowel shape."
     },
     {
@@ -115,9 +121,9 @@
       "tags": ["vowel shape", "singing high"],
       "description": "Repeat the exercise below, moving up a semitone each time. Try to change as little as possible when jumping the octave, keeping the mouth shape, jaw, head position, and posture constant. While the tongue flicks to start 'love', the vowel should stay constant (note that 'I' and 'love' have the same 'ah' vowel). Optionally, circle the hands behind and over the head while singing this exercise.",
       "image": "love_to_sing.png",
-      "warmup_source": {
+      "warmup_sources": [{
         "text": "Jackie Hawley (original source unknown)"
-      },
+      }],
       "love_because": "'ah' is a great vowel for practicing high notes, and the text is very fitting to start off a rehearsal. The octave jump is a great exercise in using healthy technique for high notes, through setting up proper technique for lower notes and continuing it to use it for high notes."
     }
   ]
