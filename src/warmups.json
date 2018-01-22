@@ -41,13 +41,13 @@
     {
       "name": "arpeggiated triads",
       "tags": ["breath", "vowel shape"],
-      "description": "Sing arpeggiated triads on an open vowel (e.g. ah, oh) or with tongue/lip trills, paying attention to variation in tone quality or vowel shape, trying to keep the sound very consistent over multiple notes by keeping breath support consistent.",
+      "description": "Sing arpeggiated triads on an open vowel (e.g. ah, oh), paying attention to variation in tone quality or vowel shape, trying to keep the sound very consistent over multiple notes by keeping breath support consistent.",
       "image": "arpeggiated_triad.png",
       "warmup_source": {
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p39",
         "url": "http://www.vocaltechnique.info/"
       },
-      "love_because": "it practices breath technique alongside pitched notes (with a simple melodic pattern, keeping the focus on the breath). The range of notes over a fifth will at some starting pitch switch over registers and help singers practice how to support that. I also love lip trills because of how well they relax the face and reduce tension."
+      "love_because": "it practices breath technique alongside pitched notes (with a simple melodic pattern, keeping the focus on the breath). The range of notes over a fifth will at some starting pitch switch over registers and help singers practice how to support that."
     },
     {
       "name": "p t k f shh",
@@ -70,23 +70,44 @@
       "love_because": "it wakes up the body and gets the blood pumping to everywhere in a fun, silly way."
     },
     {
-      "name": "breathe and stretch (probably has a more legit name, ask Mark)",
+      "name": "stretch with deep breath",
       "tags": ["loosen body", "breath"],
       "description": "Start standing up with the palms pressed together in front of the chest. Then, inhaling, bring your hands up as far as you can, reaching your fingertips to the sky. When they can't go any higher, exhale and let your hands naturally drift apart and circle down to your sides. Repeat.",
       "warmup_source": {
-        "text": "Mark Vuorinen (original source tbd)"
+        "text": "A pilates instructor, taught to Mark Vuorinen, who used it in rehearsal with me"
       },
       "love_because": "breathing in sync as a choir brings a sense of connection to each other. Focusing on the breath and the sensation of the body as it stretches makes me, at least, feel very calm and present. When I bring this sense of presense to the rehearsal, I am able to focus better."
     },
     {
       "name": "hang-ah",
       "tags": ["resonance", "vowel shape"],
-      "description": "Sing ŋ (like the ng in 'ring' on a pitch, feel the vibration in the face, and then drop the jaw and open to 'ah'. I've also seen this done with humming first: 'mm - nn - ŋ - ahh.",
+      "description": "Sing ŋ (like the 'ng' in 'ring') on a pitch, feel the vibration in the face, and then drop the jaw and open to 'ah'. I've also seen this done with humming first: 'mm - nn - ŋ - ahh' where m allows for a relaxed jaw, n allows for tone focused behind the teeth, and ŋ has the most buzz.",
       "warmup_source": {
-        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p83",
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p83 (also The Perfect Blend p46 - TODO allow for multiple sources)",
         "url": "http://www.vocaltechnique.info/"
       },
       "love_because": "it emphasizes the feeling of raising the soft palate. To sing ŋ, the soft palate must be lowered, and it can be felt against the tongue in the back of the mouth. When you switch to ahh, it's a stark contrast when the soft palate is lifted and resonance moves from a nasal sound to a nonnasal sound. Feeling the two extremes helps build better technique for open vowels."
+    },
+    {
+      "name": "bumble bee (lip trills)",
+      "tags": ["breath", "resonance"],
+      "description": "With the lips loosely resting together, blow air through them such that they trill. This can be used for any song, arpeggio, scale - for anything! I used to have trouble with this and found that pushing on my cheeks with my index fingers helped push my lips into the right position.",
+      "warmup_source": {
+        "text": "The Perfect Blend by Timothy Seelig, p11 + p41",
+        "url": "https://www.jwpepper.com/3303246.item"
+      },
+      "love_because": "lip trills are great for relaxing the face and reducing tension. Dr. Ingo Titze lists several reasons why lip trills are great: engages respiratory muscles quickly; minimizes force on vocal folds; spreads the vocal folds so that only the edges are vibrating; lowering the phonation threshold"
+    },
+    {
+      "name": "baby bird and swan",
+      "tags": ["vowel shape", "resonance"],
+      "description": "Select a medium pitch. Place your finger at the side of your face and in front of your mouth (like a bird beak, see picture). Make the brightest, most forward, white toothy 'ah' you can make. Then, without changing the shape of your lips and keeping the 'ah' vowel, move the finger back along the side of the face to just behind the ear (like a shadow puppet swan, see picture). As the finger moves, the space moves, mirroring the placement of the finger. Midpoint should be a well balanced sound and as it moves back, make as dark and even swalled sound as you can.",
+      "image": "baby_bird_swan.png",
+      "warmup_source": {
+        "text": "The Perfect Blend by Timothy Seelig, p69",
+        "url": "https://www.jwpepper.com/3303246.item"
+      },
+      "love_because": "it's a super effective way to communicate variation in vowel shape."
     }
   ]
 }
