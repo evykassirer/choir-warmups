@@ -12,6 +12,7 @@
     {
       "name": "I have a very lovely bottom ...note",
       "tags": ["low range", "smile"],
+      "description": "Repeat the exercise below, moving down a semitone each time.",
       "image": "lovely_bottom.png",
       "warmup_source": {
         "text": "unknown (Jackie Hawley or someone that worked with Cantiamo?)"
@@ -108,6 +109,16 @@
         "url": "https://www.jwpepper.com/3303246.item"
       },
       "love_because": "it's a super effective way to communicate variation in vowel shape."
+    },
+    {
+      "name": "I love to sing",
+      "tags": ["vowel shape", "singing high"],
+      "description": "Repeat the exercise below, moving up a semitone each time. Try to change as little as possible when jumping the octave, keeping the mouth shape, jaw, head position, and posture constant. While the tongue flicks to start 'love', the vowel should stay constant (note that 'I' and 'love' have the same 'ah' vowel). Optionally, circle the hands behind and over the head while singing this exercise.",
+      "image": "love_to_sing.png",
+      "warmup_source": {
+        "text": "Jackie Hawley (original source unknown)"
+      },
+      "love_because": "'ah' is a great vowel for practicing high notes, and the text is very fitting to start off a rehearsal. The octave jump is a great exercise in using healthy technique for high notes, through setting up proper technique for lower notes and continuing it to use it for high notes."
     }
   ]
 }
