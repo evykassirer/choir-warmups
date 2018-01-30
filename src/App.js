@@ -12,7 +12,13 @@ class App extends Component {
   render() {
     const warmupList = warmups["warmups"];
     warmupList.sort(function(a, b) {
-        return a.name.toLowerCase() > b.name.toLowerCase();
+        if (a.name.toLowerCase() < b.name.toLowerCase()) {
+          return -1;
+        }
+        if (a.name.toLowerCase() > b.name.toLowerCase()) {
+          return 1;
+        }
+        return 0;
     });
 
     const warmupComponents = [<Divider/>];
