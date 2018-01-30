@@ -125,6 +125,62 @@
         "text": "Jackie Hawley (original source unknown)"
       }],
       "love_because": "'ah' is a great vowel for practicing high notes, and the text is very fitting to start off a rehearsal. The octave jump is a great exercise in using healthy technique for high notes, through setting up proper technique for lower notes and continuing it to use it for high notes."
+    },
+    {
+      "name": "tongue rolls",
+      "tags": ["vowel shape", "reduce tension"],
+      "description": "Swirl your tongue in a circle in *front* of your teeth, then switch directions. Do enough circles such that your tongue is tired at the end and flops relaxed at the bottom of the mouth. To show why this is important, have the singers sing [a] and move the tip of the tongue forward/backward/up/down in the mouth to hear how much their sound changes when their tongue is in the way.",
+       "warmup_sources": [
+        {
+          "text": "Jackie Hawley (original source unknown)"
+        },
+        {
+          "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p110",
+          "url": "http://www.vocaltechnique.info/"
+        }
+      ],
+      "love_because": "I deal with a lot of tongue and jaw tension, and this has been extraordinarily helpful to me to reduce this tension. Also you look ridiculous when you do it and that's always fun."
+    },
+    {
+      "name": "I like my bike (dipthong practice)",
+      "tags": ["vowel shape", "dipthong"],
+      "description": "Sing the phrase 'I like my bike'. Every word of this phrase contains a dipthong. Sustain the first vowel of each [a] and move to the second vowel only just before changing syllables. This exercise could easily use the same melody as 'I love to sing', but you can experiment with a variety of melodic patterns!",
+      "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p111",
+        "url": "http://www.vocaltechnique.info/"
+      }],
+      "love_because": "dipthongs can be tricky and this is a great phrase to consciously practice them!"
+    },
+    {
+      "name": "the lips, the teeth, the tip of the tongue",
+      "tags": ["diction"],
+      "description": "Sing the phrase 'the lips, the teeth the tip of the tongue'. Enunciate the consonants clearly (using the lips, the teeth, and tip of the tongue), but also focus on making them quick so that the vowels are still pure. I've generally done this as a whole phrase on one pitch, then repeating the phrase one semitone higher, and so on.",
+      "image": "lips_teeth_tip.png",
+      "warmup_sources": [{
+        "text": "Source unknown, but inspired by dicussion in Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p119",
+        "url": "http://www.vocaltechnique.info/"
+      }],
+      "love_because": "it's a great tongue twister that also aptly describes the body parts being used to pronounce it!"
+    },
+    {
+      "name": "keeping the space in pianissimo",
+      "tags": ["dynamics", "vowel shape"],
+      "description": "Sing the below exercise on 'ah', with the first half forte and second half piano. Focus on making the piano portion just as full, open, and energized as the loud portion, by keeping the air moving and space as it was for the forte portion of the exercise.",
+      "image": "space_pianissimo.png",
+      "warmup_sources": [{
+        "text": "The Perfect Blend by Timothy Seelig, p88",
+        "url": "https://www.jwpepper.com/3303246.item"
+      }],
+      "love_because": "a lot of warmups don't focus as much on dynamics and this is a great exercise to really play with the contrast between how singing loudly and softly feels."
+    },
+    {
+      "name": "from pp to ff",
+      "tags": ["dynamics"],
+      "description": "Play a chord and ask singers to pick a note in that chord that is comfortable to sing for a while. Start singing together at pianissimo, and build all the way to a fortissimo and back to pianissimo (breathing individually when needed). You can do this where the goal is to get louder and softer in a certain number of beats, or the singers can direct themselves by listening to each other and growing louder and softer as they feel is appropriate. The transitioning should be smooth, getting louder and softer at the same pace over time.",
+      "warmup_sources": [{
+        "text": "Inspired by an exercise with Jennifer Moir in a workshop years ago, and a warmup frequently done in voice lessons with Stephanie Kramer."
+      }],
+      "love_because": "a lot of warmups don't focus as much on dynamics, and in general it's hard to really use the full range of dynamics in a piece. This warmup helps the singers think not only about how loud and softly they can sing, but also how to move between dynamics."
     }
   ]
 }
