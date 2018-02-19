@@ -11,7 +11,7 @@
     },
     {
       "name": "I have a very lovely bottom ...note",
-      "tags": ["low range", "silly"],
+      "tags": ["low notes", "silly"],
       "description": "Repeat the exercise below, moving down a semitone each time.",
       "image": "lovely_bottom.png",
       "warmup_sources": [{
@@ -21,7 +21,7 @@
     },
     {
       "name": "massage chain",
-      "tags": ["loosen body", "chorister connection"],
+      "tags": ["loosen body", "community building"],
       "description": "Everyone turns to the side to make a line and asks the person in front of them if they would like a massage (consent is important!). If yes, massage the neck and back, maybe leaning backwards into the person massaging them. Perhaps some music on the piano can accompany this. Fun extra: add some soft karate chops accross shoulder and backs. If the singers sing [a] it will have fun, relaxed vibrato.",
       "warmup_sources": [{
         "text": "The Perfect Blend by Timothy Seelig, p16-17",
@@ -41,7 +41,7 @@
     },
     {
       "name": "arpeggiated triads",
-      "tags": ["breath", "vowel shape"],
+      "tags": ["breath", "vowels"],
       "description": "Sing arpeggiated triads on an open vowel (e.g. ah, oh), paying attention to variation in tone quality or vowel shape, trying to keep the sound very consistent over multiple notes by keeping breath support consistent.",
       "image": "arpeggiated_triad.png",
       "warmup_sources": [{
@@ -52,7 +52,7 @@
     },
     {
       "name": "p t k f shh",
-      "tags": ["breath", "enunciation"],
+      "tags": ["breath", "diction"],
       "description": "Repeat the passage below, focusing on really clearly and crisply enunciating all the consonants. Feel the abdomen bouncing with each 'ts'. Try to do each repitition without taking a breath in the middle.",
       "image": "ptkfshh.png",
       "warmup_sources": [{
@@ -81,7 +81,7 @@
     },
     {
       "name": "hang-ah",
-      "tags": ["resonance", "vowel shape"],
+      "tags": ["resonance", "vowels"],
       "description": "Sing ŋ (like the 'ng' in 'ring') on a pitch, feel the vibration in the face, and then drop the jaw and open to 'ah'. I've also seen this done with humming first: 'mm - nn - ŋ - ahh' where m allows for a relaxed jaw, n allows for tone focused behind the teeth, and ŋ has the most buzz.",
       "warmup_sources": [
         {
@@ -107,7 +107,7 @@
     },
     {
       "name": "baby bird and swan",
-      "tags": ["vowel shape", "resonance"],
+      "tags": ["vowels", "resonance"],
       "description": "Select a medium pitch. Place your finger at the side of your face and in front of your mouth (like a bird beak, see picture). Make the brightest, most forward, white toothy 'ah' you can make. Then, without changing the shape of your lips and keeping the 'ah' vowel, move the finger back along the side of the face to just behind the ear (like a shadow puppet swan, see picture). As the finger moves, the space moves, mirroring the placement of the finger. Midpoint should be a well balanced sound and as it moves back, make as dark and even swalled sound as you can.",
       "image": "baby_bird_swan.png",
       "warmup_sources": [{
@@ -118,7 +118,7 @@
     },
     {
       "name": "I love to sing",
-      "tags": ["vowel shape", "singing high"],
+      "tags": ["vowels", "high notes"],
       "description": "Repeat the exercise below, moving up a semitone each time. Try to change as little as possible when jumping the octave, keeping the mouth shape, jaw, head position, and posture constant. While the tongue flicks to start 'love', the vowel should stay constant (note that 'I' and 'love' have the same 'ah' vowel). Optionally, circle the hands behind and over the head while singing this exercise.",
       "image": "love_to_sing.png",
       "warmup_sources": [{
@@ -128,7 +128,7 @@
     },
     {
       "name": "tongue rolls",
-      "tags": ["vowel shape", "reduce tension"],
+      "tags": ["vowels", "reduce tension"],
       "description": "Swirl your tongue in a circle in *front* of your teeth, then switch directions. Do enough circles such that your tongue is tired at the end and flops relaxed at the bottom of the mouth. To show why this is important, have the singers sing [a] and move the tip of the tongue forward/backward/up/down in the mouth to hear how much their sound changes when their tongue is in the way.",
        "warmup_sources": [
         {
@@ -143,7 +143,7 @@
     },
     {
       "name": "I like my bike (dipthong practice)",
-      "tags": ["vowel shape"],
+      "tags": ["vowels"],
       "description": "Sing the phrase 'I like my bike'. Every word of this phrase contains a dipthong. Sustain the first vowel of each [a] and move to the second vowel only just before changing syllables. This exercise could easily use the same melody as 'I love to sing', but you can experiment with a variety of melodic patterns!",
       "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p111",
@@ -164,7 +164,7 @@
     },
     {
       "name": "keeping the space in pianissimo",
-      "tags": ["dynamics", "vowel shape"],
+      "tags": ["dynamics", "vowels"],
       "description": "Sing the below exercise on 'ah', with the first half forte and second half piano. Focus on making the piano portion just as full, open, and energized as the loud portion, by keeping the air moving and space as it was for the forte portion of the exercise.",
       "image": "space_pianissimo.png",
       "warmup_sources": [{
