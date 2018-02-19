@@ -3,6 +3,8 @@ import {List, ListItem} from 'material-ui/List';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import Divider from 'material-ui/Divider';
 import AutoComplete from 'material-ui/AutoComplete';
+import Select from 'react-select';
+import 'react-select/dist/react-select.css';
 
 import './App.css';
 import logo from './logo.gif';
@@ -10,7 +12,14 @@ import githubIcon from './github-icon.png';
 import warmups from './warmups.json';
 
 class App extends Component {
-  state = { warmupFilterText: "" }
+  state = {
+    warmupFilterText: "",
+    selectedFilterTags: [],
+  }
+
+  tagSearchChanged = (selected) => {
+    this.setState({selectedFilterTags: selected});
+  }
 
   render() {
     const warmupList = warmups["warmups"];
@@ -24,10 +33,26 @@ class App extends Component {
         return 0;
     });
 
+    const tags = new Set();
+    for (const warmup of warmupList) {
+      warmup.tags.forEach(t => tags.add(t));
+    }
+
     const warmupComponents = [];
     for (const warmup of warmupList) {
       if (!warmup.name.includes(this.state.warmupFilterText)) {
         continue;
+      }
+      if (this.state.selectedFilterTags.length > 0) {
+        let tagsMatch = true;
+        for (const tag of this.state.selectedFilterTags) {
+          if (!warmup.tags.includes(tag.value)) {
+            tagsMatch = false;
+          }
+        }
+        if (!tagsMatch) {
+          continue;
+        }
       }
       warmupComponents.push(<Warmup key={warmup.name} data={warmup}/>);
       warmupComponents.push(<Divider/>);
@@ -41,12 +66,23 @@ class App extends Component {
         </header>
         <div className="App-search">
           <AutoComplete
-            floatingLabelText="Warmup name"
+            floatingLabelText="Search by warmup name"
             filter={AutoComplete.fuzzyFilter}
             dataSource={warmupList.map(w => w.name)}
             maxSearchResults={3}
             fullWidth
             onUpdateInput={text => this.setState({warmupFilterText: text})}
+          />
+
+          <Select
+            name="tag-search-field"
+            placeholder="Filter by tags"
+            value={this.state.selectedFilterTags}
+            onChange={this.tagSearchChanged}
+            multi={true}
+            options={Array.from(tags).map(t => {
+              return {value: t, label: t};
+            })}
           />
         </div>
 
