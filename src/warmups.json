@@ -2,7 +2,7 @@
   "warmups": [
     {
       "name": "body shake",
-      "tags": ["loosen body", "brain puzzle", "smile"],
+      "tags": ["loosen body", "brain puzzle", "silly"],
       "description": "Start with your right hand. Shake it out 8 times. Then shake from the elbow down 8 times. Then shake your whole right arm 8 times. Do the same for the left arm. Do the same for each leg (first the foot, then the lower half of the leg, then the whole leg). Then shake your whole body around 8 times! (If you look silly, you're doing it right.) Next do each shake again but only 4 times each. Then repeat with 2 times each. Finally (and it's pretty much impossible to do this correctly if you're going quickly enough) shake them out just once each.",
       "warmup_sources": [{
         "text": "Jackie Hawley (original source unknown)"
@@ -11,7 +11,7 @@
     },
     {
       "name": "I have a very lovely bottom ...note",
-      "tags": ["low range", "smile"],
+      "tags": ["low range", "silly"],
       "description": "Repeat the exercise below, moving down a semitone each time.",
       "image": "lovely_bottom.png",
       "warmup_sources": [{
@@ -143,7 +143,7 @@
     },
     {
       "name": "I like my bike (dipthong practice)",
-      "tags": ["vowel shape", "dipthong"],
+      "tags": ["vowel shape"],
       "description": "Sing the phrase 'I like my bike'. Every word of this phrase contains a dipthong. Sustain the first vowel of each [a] and move to the second vowel only just before changing syllables. This exercise could easily use the same melody as 'I love to sing', but you can experiment with a variety of melodic patterns!",
       "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p111",

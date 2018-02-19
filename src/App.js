@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import {List, ListItem} from 'material-ui/List';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import Divider from 'material-ui/Divider';
+import AutoComplete from 'material-ui/AutoComplete';
 
 import './App.css';
 import logo from './logo.gif';
@@ -9,6 +10,8 @@ import githubIcon from './github-icon.png';
 import warmups from './warmups.json';
 
 class App extends Component {
+  state = { warmupFilterText: "" }
+
   render() {
     const warmupList = warmups["warmups"];
     warmupList.sort(function(a, b) {
@@ -21,17 +24,32 @@ class App extends Component {
         return 0;
     });
 
-    const warmupComponents = [<Divider/>];
+    const warmupComponents = [];
     for (const warmup of warmupList) {
+      if (!warmup.name.includes(this.state.warmupFilterText)) {
+        continue;
+      }
       warmupComponents.push(<Warmup key={warmup.name} data={warmup}/>);
       warmupComponents.push(<Divider/>);
     }
+
     return <MuiThemeProvider>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Choir Warmups</h1>
         </header>
+        <div className="App-search">
+          <AutoComplete
+            floatingLabelText="Warmup name"
+            filter={AutoComplete.fuzzyFilter}
+            dataSource={warmupList.map(w => w.name)}
+            maxSearchResults={3}
+            fullWidth
+            onUpdateInput={text => this.setState({warmupFilterText: text})}
+          />
+        </div>
+
         <div className="warmups-list">
           <List>
             {warmupComponents}

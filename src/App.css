@@ -13,6 +13,11 @@
   font-size: 1.5em;
 }
 
+.App-search {
+  width: 50vw;
+  margin: auto;
+}
+
 .view-source {
   display: flex;
   align-items: center;
