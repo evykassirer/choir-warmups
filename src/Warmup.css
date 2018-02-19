@@ -1,0 +1,44 @@
+.warmup-section-title {
+  color: #4512ed;
+}
+
+.warmup-description {
+  line-height: 1.2;
+}
+
+.warmup-love {
+  line-height: 1.2;
+}
+
+.warmup-title {
+  padding-bottom: 10px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.warmup-tags {
+  color: grey;
+  font-weight: 200;
+}
+
+.warmup-image {
+  max-width: 100%;
+  max-height: 80vh;
+}
+
+.warmup-source-list {
+  margin-top: 10px;
+}
+
+.warmup-source-list li {
+  margin-bottom: 5px;
+}
+
+.warmup-source-link {
+  color: black;
+  text-decoration: none;
+}
+
+.warmup-source-link:hover {
+  text-decoration: underline;
+}
