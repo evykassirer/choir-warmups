@@ -7,7 +7,7 @@ class About extends Component {
 
   render() {
     return <div className="about">
-      <img className="about-pic" src={conducting_pic}/>
+      <img className="about-pic" alt="Evy conducting" src={conducting_pic}/>
 
       <p>
       Hi I'm <a href="http://www.evykassirer.com/music">Evy</a>! I love singing, musical movement, pedagogy, and community. I've sung in choirs since I was 11 and have been studying conducting for almost four years. Jan-April 2018 is the final term of my computer science degree and music minor at the University of Waterloo.
