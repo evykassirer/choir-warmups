@@ -10,8 +10,8 @@ import App from './App.js';
 const RouterComponent = () => (
   <Router>
     <div>
-      <Route exact path="/" render={() => <App page="warmups"/>}/>
-      <Route path="/about" render={() => <App page="about"/>}/>
+      <Route exact path={process.env.PUBLIC_URL + "/"} render={() => <App page="warmups"/>}/>
+      <Route path={process.env.PUBLIC_URL + "/about"} render={() => <App page="about"/>}/>
     </div>
   </Router>
 )
