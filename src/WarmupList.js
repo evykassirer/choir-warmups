@@ -63,7 +63,7 @@ class WarmupList extends Component {
 
 
 	renderFilters() {
-	  return <div className="App-search">
+	  return <div className="warmups-search">
 	    <AutoComplete
 	      floatingLabelText="Search by warmup name"
 	      filter={AutoComplete.fuzzyFilter}
@@ -93,7 +93,7 @@ class WarmupList extends Component {
 		  warmupComponents.push(<Warmup key={warmup.name} data={warmup}/>);
 		  warmupComponents.push(<Divider/>);
 		});
-		return <div>
+		return <div className="warmups">
 			{ this.renderFilters() }
 
 			 <div className="warmups-list">

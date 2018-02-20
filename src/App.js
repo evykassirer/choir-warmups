@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import { Link } from 'react-router-dom';
 
 import WarmupList from './WarmupList.js';
+import About from './About.js';
 
 import './App.css';
 import logo from './logo.gif';
@@ -19,18 +21,24 @@ class App extends Component {
     </div>
   }
 
+  renderHeader() {
+    return <header className="App-header">
+      <img src={logo} className="App-logo" alt="logo" />
+      <Link to="/">
+        <h1 className="App-title">Choir Warmups</h1>
+      </Link>
+      <Link to="/about">[[ about ]]</Link>
+    </header>
+  }
+
   render() {
     return <MuiThemeProvider>
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Choir Warmups</h1>
-        </header>
-
-        <WarmupList/>
+        { this.renderHeader() }
+        { this.props.page === "about" && <About/> }
+        { this.props.page === "warmups" && <WarmupList/> }
+        { this.renderViewSource() }
       </div>
-
-      { this.renderViewSource() }
     </MuiThemeProvider>;
   }
 }
