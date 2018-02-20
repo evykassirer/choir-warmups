@@ -1,5 +1,7 @@
 .about {
 	margin: 15px 15vw;
+	display: flex;
+	flex-direction: column;
 }
 
 .about-pic {
