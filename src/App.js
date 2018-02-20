@@ -24,10 +24,10 @@ class App extends Component {
   renderHeader() {
     return <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
-      <Link to="/">
+      <Link to={process.env.PUBLIC_URL + "/"}>
         <h1 className="App-title">Choir Warmups</h1>
       </Link>
-      <Link to="/about">[[ about ]]</Link>
+      <Link to={process.env.PUBLIC_URL + "/about"}>[[ about ]]</Link>
     </header>
   }
 
