@@ -163,23 +163,18 @@
       "love_because": "it's a great tongue twister that also aptly describes the body parts being used to pronounce it!"
     },
     {
-      "name": "keeping the space in pianissimo",
-      "tags": ["dynamics", "vowels"],
-      "description": "Sing the below exercise on 'ah', with the first half forte and second half piano. Focus on making the piano portion just as full, open, and energized as the loud portion, by keeping the air moving and space as it was for the forte portion of the exercise.",
-      "image": "space_pianissimo.png",
-      "warmup_sources": [{
-        "text": "The Perfect Blend by Timothy Seelig, p88",
-        "url": "https://www.jwpepper.com/3303246.item"
-      }],
-      "love_because": "a lot of warmups don't focus as much on dynamics and this is a great exercise to really play with the contrast between how singing loudly and softly feels."
-    },
-    {
       "name": "from pp to ff",
       "tags": ["dynamics"],
-      "description": "Play a chord and ask singers to pick a note in that chord that is comfortable to sing for a while. Start singing together at pianissimo, and build all the way to a fortissimo and back to pianissimo (breathing individually when needed). You can do this where the goal is to get louder and softer in a certain number of beats, or the singers can direct themselves by listening to each other and growing louder and softer as they feel is appropriate. The transitioning should be smooth, getting louder and softer at the same pace over time.",
-      "warmup_sources": [{
-        "text": "Inspired by an exercise with Jennifer Moir in a workshop years ago, and a warmup frequently done in voice lessons with Stephanie Kramer."
-      }],
+      "description": "Play a chord and ask singers to pick a note in that chord that is comfortable to sing for a while. Start singing together at pianissimo, and build all the way to a fortissimo and back to pianissimo (breathing individually when needed). You can do this where the goal is to get louder and softer in a certain number of beats, or the singers can direct themselves by listening to each other and growing louder and softer as they feel is appropriate. The transitioning should be smooth, getting louder and softer at the same pace over time. Focus on making the soft portions just as full, open, and energized as the loud portions, by keeping the air moving and space as it was for the forte portion of the exercise.",
+      "warmup_sources": [
+        {
+          "text": "Inspired by an exercise with Jennifer Moir in a workshop years ago, and a warmup frequently done in voice lessons with Stephanie Kramer."
+        },
+        {
+          "text": "The Perfect Blend by Timothy Seelig, p88",
+          "url": "https://www.jwpepper.com/3303246.item"
+        }
+      ],
       "love_because": "a lot of warmups don't focus as much on dynamics, and in general it's hard to really use the full range of dynamics in a piece. This warmup helps the singers think not only about how loud and softly they can sing, but also how to move between dynamics."
     }
   ]
