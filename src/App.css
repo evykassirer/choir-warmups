@@ -57,6 +57,15 @@
   width: 50vw;
 }
 
+.warmupExercisetoggles {
+  width: 200px;
+  margin-top: 10px;
+}
+
+.exerciseHelpText {
+  color: grey;
+}
+
 .warmups-list {
   width: 70vw;
   margin: 30px auto;

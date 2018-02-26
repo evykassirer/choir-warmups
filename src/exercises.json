@@ -1,0 +1,41 @@
+{
+  "exercises": [
+    {
+      "name": "learning about vowel shape inside the mouth",
+      "tags": ["vowels"],
+      "description": "Put your hand next to your ear and point your index finger up. Sing [a] in the middle of the range. While sustaining the vowel, move your finger slowly around to a point in front of the nose, allowing the sound to brighten by increasing elevation of the hump of the tongue. Continue singing and bring the finger to the back of the head, shifting to a darker tone by depressing the hump.",
+       "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers   by Julia Davids and Stephen LaTour, p109",
+        "url": "http://www.vocaltechnique.info/"
+      }],
+      "love_because": "this exercise helps to illustrate physically the possiblities of vowel colour, providing a nice reminder gesture."
+    },
+    {
+      "name": "vowel space and resonance",
+      "tags": ["vowels", "resonance"],
+      "description": "Try humming on [m] with the jaw somewhat closed. Then open the jaw at the back and notice the improvement in resonance.",
+      "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers   by Julia Davids and Stephen LaTour, p118",
+        "url": "http://www.vocaltechnique.info/"
+      }]
+    },
+    {
+      "name": "resting the voice in pieces with difficulties in tessitura",
+      "tags": ["tessitura", "reduce tension"],
+      "description": "Sing the passage in question. Singers should release the abdominal and rib muscles so that the subsequent inhalation can be complete and relaxed. For soloists and for ensemble group-breaths, the breath should be significantly longer (e.g. a quarter rest becomes a half rest by reducing the duration of the preceding note). If stagger breathing is necessary for an ensemble, singers should take at least three seconds before singing again. Then continue to sing the passage. Repeat the exercise with slightly shorter breaks for the breath. Finally, sing in time.",
+      "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers   by Julia Davids and Stephen LaTour, p174-175",
+        "url": "http://www.vocaltechnique.info/"
+      }]
+    },
+    {
+      "name": "staccato production",
+      "tags": ["staccato"],
+      "description": "Breathe in very slightly after each note - this makes it easier to stop the sound and there is less likelihood of closing the vocal folds to accomplish the stoppage of sound.",
+      "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers   by Julia Davids and Stephen LaTour, p183",
+        "url": "http://www.vocaltechnique.info/"
+      }]
+    }
+  ]
+}
