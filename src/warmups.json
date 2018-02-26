@@ -32,7 +32,7 @@
     {
       "name": "sibilant exercise",
       "tags": ["breath"],
-      "description": "Place both hands on the upper abdomen, thumbs touching lower ribs, little fingers near the waist, middle fingers just touching. Then release the abdominal muscles and expand the ribs to fill the lungs from the bottom up. The middle fingers should part slightly (a good sign that breathing muscles are being used correctly). The abdomen should feel firm with a small bit of give (like a firm mattress). Hold this expanded position briefly and observe how it feels. The goal is to maintain this expanded position (within reason) while saying [s] (hissing) or [v] (and ultimately, always while singing). If hissing, keep the vocal folds (muscles in your throat) open. Using the abdominal muscles and intercostal muscles (the muscles in your lungs), try to have the air flow out at a slow steady rate, all the while trying to keep the abdominal and rib area expanded (i.e. fingers still not touching), allowing collapse only at the very end (but within reason, and not causing strain).",
+      "description": "(1) Place both hands on the upper abdomen, thumbs touching lower ribs, little fingers near the waist, middle fingers just touching. (2) release the abdominal muscles and expand the ribs to fill the lungs from the bottom up. The middle fingers should part slightly (a good sign that breathing muscles are being used correctly). The abdomen should feel firm with a small bit of give (like a firm mattress). (3) Hold this expanded position briefly and observe how it feels. Don't close the glottis, feel how this means intercostal muscles (in your lungs) need to engage to keep air from leaving your lungs. (4) Maintain this expanded position (within reason) while saying [s] (hissing) or [v]. If hissing, keep the vocal folds (muscles in your throat) open. Using the abdominal muscles and intercostal muscles (the muscles in your lungs), try to have the air flow out at a slow steady rate, all the while trying to keep the abdominal and rib area expanded (i.e. fingers still not touching), allowing collapse only at the very end (but within reason, and not causing strain).",
       "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p37",
         "url": "http://www.vocaltechnique.info/"
@@ -163,7 +163,7 @@
       "love_because": "it's a great tongue twister that also aptly describes the body parts being used to pronounce it!"
     },
     {
-      "name": "from pp to ff",
+      "name": "messa di voce (from pp to ff)",
       "tags": ["dynamics"],
       "description": "Play a chord and ask singers to pick a note in that chord that is comfortable to sing for a while. Start singing together at pianissimo, and build all the way to a fortissimo and back to pianissimo (breathing individually when needed). You can do this where the goal is to get louder and softer in a certain number of beats, or the singers can direct themselves by listening to each other and growing louder and softer as they feel is appropriate. The transitioning should be smooth, getting louder and softer at the same pace over time. Focus on making the soft portions just as full, open, and energized as the loud portions, by keeping the air moving and space as it was for the forte portion of the exercise.",
       "warmup_sources": [
@@ -173,9 +173,23 @@
         {
           "text": "The Perfect Blend by Timothy Seelig, p88",
           "url": "https://www.jwpepper.com/3303246.item"
+        },
+        {
+          "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p186",
+          "url": "http://www.vocaltechnique.info/"
         }
       ],
       "love_because": "a lot of warmups don't focus as much on dynamics, and in general it's hard to really use the full range of dynamics in a piece. This warmup helps the singers think not only about how loud and softly they can sing, but also how to move between dynamics."
+    },
+    {
+      "name": "creating chords",
+      "tags": ["tuning", "blend"],
+      "description": "Try sustaining a four-part major chord of your choice. Change the pitches systematically, part by part, to form new, sometimes dissonant chords. Singers should be encouraged to notice the shifts in intervals between parts. Chord progressions can also be taken from repetoire to practice tuning those chords.",
+      "warmup_sources": [{
+        "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p173",
+        "url": "http://www.vocaltechnique.info/"
+      }],
+      "love_because": "there is something incredibly satisfying about singing a beautiful chord in an ensemble, and often choristers don't put their full attention into it (because of diction, quickly changing pitches, and thinking about the piece and what's coming next). This exercise allows the choristers to really focus on tuning and blend and enjoy the way their voice creates harmony (including dissonance) without other voices."
     }
   ]
 }
