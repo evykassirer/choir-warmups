@@ -190,6 +190,15 @@
         "url": "http://www.vocaltechnique.info/"
       }],
       "love_because": "there is something incredibly satisfying about singing a beautiful chord in an ensemble, and often choristers don't put their full attention into it (because of diction, quickly changing pitches, and thinking about the piece and what's coming next). This exercise allows the choristers to really focus on tuning and blend and enjoy the way their voice creates harmony (including dissonance) without other voices."
+    },
+    {
+      "name": "aerobic dance",
+      "tags": ["loosen body", "silly"],
+      "description": "Play an upbeat song and lead everyone through some aerobic actions to the beat of the music, doing each move about 8 counts each. Example moves: arms/legs alternating swinging accross the body, arms alternating reaching overtop, kicking in front of you, high knees",
+      "warmup_sources": [{
+        "text": "Alan Xaykongsa, a fellow conducting student"
+      }],
+      "love_because": "it's extremely silly and puts a smile on your face, it gets your body and brain literally warmed up, and it brings the choir together in sync to music (a great way to start a rehearsal of singing music together!)"
     }
   ]
 }
