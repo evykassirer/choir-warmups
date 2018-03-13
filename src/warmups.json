@@ -199,6 +199,25 @@
         "text": "Alan Xaykongsa, a fellow conducting student"
       }],
       "love_because": "it's extremely silly and puts a smile on your face, it gets your body and brain literally warmed up, and it brings the choir together in sync to music (a great way to start a rehearsal of singing music together!)"
+    },
+    {
+      "name": "dog sounds",
+      "tags": ["registers", "silly", "reduce tension"],
+      "description": "Make various dog sounds: whimpers (highish pitches with lips closed), howls, deep loud woofs, etc. Get creative! Play with various sounds in various ranges of the voice.",
+      "warmup_sources": [{
+        "text": "unknown"
+      }],
+      "love_because": "it's fun! It warms up various registers of the voice without effort put into singing particular pitches, it's silly, and helps loosen the face and voice. I also love doing this exercise in the middle of a rehearsal to reset my voice and focus."
+    },
+    {
+      "name": "ya-hoo ya-hee",
+      "tags": ["registers", "high notes"],
+      "description": "Sing the below exercise three times: first time legato, second time staccato, and third time as if you were an opera singer.",
+      "image": "ya-hoo-hee.png",
+      "warmup_sources": [{
+        "text": "Jackie Hawley (original source unknown)"
+      }],
+      "love_because": "it covers a huge range and helps practice difficult reigster transitions. It also is great practice for different style of singing (I especially have fun with the opera singer one)."
     }
   ]
 }
