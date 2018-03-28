@@ -184,7 +184,7 @@
     {
       "name": "creating chords",
       "tags": ["tuning", "blend"],
-      "description": "Try sustaining a four-part major chord of your choice. Change the pitches systematically, part by part, to form new, sometimes dissonant chords. Singers should be encouraged to notice the shifts in intervals between parts. Chord progressions can also be taken from repetoire to practice tuning those chords.",
+      "description": "Try sustaining a four-part major chord of your choice. Change the pitches systematically, part by part, to form new, sometimes dissonant chords. Singers should be encouraged to notice the shifts in intervals between parts. Singers should be encouraged to notice the physical sensation of the vibration in the body when a chord is sung in tune. Chord progressions can also be taken from repetoire to practice tuning those chords.",
       "warmup_sources": [{
         "text": "Vocal Technique: A Guide for Conductors, Teachers, and Singers by Julia Davids and Stephen LaTour, p173",
         "url": "http://www.vocaltechnique.info/"
@@ -218,6 +218,16 @@
         "text": "Jackie Hawley (original source unknown)"
       }],
       "love_because": "it covers a huge range and helps practice difficult reigster transitions. It also is great practice for different style of singing (I especially have fun with the opera singer one)."
+    },
+    {
+      "name": "maintaining air pressure",
+      "tags": ["breath"],
+      "description": "Inhale slowly for four beats to partially fill the lungs. Maintain the inner pressure for four beats (don't close the glottis). Continue to inhale for four more beats, completely filling the lungs. Release the air for eight beats. Try again with shorter inhalation (2 inhale, 2 maintain pressure, 2 inhale, 8 exhale). Then inhale in one beat and exhale for 8 - the most realistic to singing in choir.",
+      "warmup_sources": [{
+        "text": "Singing In Tune, strategies & soluitons for conductors, conductors-in-training, & voice teachers, by Nancy Telfer, p29",
+        "url": "https://www.sheetmusicplus.com/title/singing-in-tune-sheet-music/3969614"
+      }],
+      "love_because": "being aware of how much breath you have left, rationing it properly, and expanding lung capacity to hold more air, are all difficult skills and this efficiently works on them."
     }
   ]
 }

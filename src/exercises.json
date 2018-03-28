@@ -56,6 +56,33 @@
         "url": "https://www.jwpepper.com/3303246.item"
       }],
       "love_because": "I love any exercise that encourages musicianship in choristers. Learning to think about how to make music better will help them do and fix things without you even having to think of things or remind them!"
+    },
+    {
+      "name": "listen to yourself",
+      "tags": ["tuning"],
+      "description": "Have the singers extend the size of their ears by cupping the hands behind the ears and pressing the ears slightly forward. The extended ears catch the sound of the true voice condcuted through the air and magnify it, and also is able to catch the sound of other nearby singers. Be cautious that vocal placement doesn't go too far back in the singers' mouths, as this can bring the pitch flat.",
+      "warmup_sources": [{
+        "text": "Singing In Tune, strategies & soluitons for conductors, conductors-in-training, & voice teachers, by Nancy Telfer, p16",
+        "url": "https://www.sheetmusicplus.com/title/singing-in-tune-sheet-music/3969614"
+      }]
+    },
+    {
+      "name": "why do we do dynamics?",
+      "tags": ["dynamics"],
+      "description": "Determine the reason for a change in dynamics - is it playful? is it expressing the same lyrics with a different meaning? Same for constant dynamics - e.g. is a piano dynamic delicate/mysterious/distant/intense/etc? Sing it as such.",
+      "warmup_sources": [{
+        "text": "Singing In Tune, strategies & soluitons for conductors, conductors-in-training, & voice teachers, by Nancy Telfer, p50",
+        "url": "https://www.sheetmusicplus.com/title/singing-in-tune-sheet-music/3969614"
+      }]
+    },
+    {
+      "name": "rehearsing high note passages while keeping throat relaxed",
+      "tags": ["high notes"],
+      "description": "Don't sing high when working on other issues - e.g. have singers speak in rhythm to work on rhythm, sing an octave lower to learn pitches, speak in rhythm with dynamics, etc. Then once all the pieces are ready, have the singers sing high.",
+      "warmup_sources": [{
+        "text": "Singing In Tune, strategies & soluitons for conductors, conductors-in-training, & voice teachers, by Nancy Telfer, p58",
+        "url": "https://www.sheetmusicplus.com/title/singing-in-tune-sheet-music/3969614"
+      }]
     }
   ]
 }
