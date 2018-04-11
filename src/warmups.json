@@ -12,7 +12,7 @@
     {
       "name": "I have a very lovely bottom ...note",
       "tags": ["low notes", "silly"],
-      "description": "Repeat the exercise below, moving down a semitone each time.",
+      "description": "Repeat the exercise below, moving down a semitone each time. Sing the line very legato, relaxing the face and body, engaging the breath, trying to let the bottom notes really resonate.",
       "image": "lovely_bottom.png",
       "warmup_sources": [{
         "text": "unknown (Jackie Hawley or someone that worked with Cantiamo?)"
@@ -119,7 +119,7 @@
     {
       "name": "I love to sing",
       "tags": ["vowels", "high notes"],
-      "description": "Repeat the exercise below, moving up a semitone each time. Try to change as little as possible when jumping the octave, keeping the mouth shape, jaw, head position, and posture constant. While the tongue flicks to start 'love', the vowel should stay constant (note that 'I' and 'love' have the same 'ah' vowel). Optionally, circle the hands behind and over the head while singing this exercise.",
+      "description": "Repeat the exercise below, moving up a semitone each time. Try to change as little as possible when jumping the octave, keeping the mouth shape, jaw, head position, and posture constant. While the tongue flicks to start 'love', the vowel should stay constant (note that 'I' and 'love' have the same 'ah' vowel). Optionally, circle the hands behind and over the head while singing this exercise. When it gets too high for altos and basses, they can sing an octave lower while the sopranos and tenors continue to stretch their range.",
       "image": "love_to_sing.png",
       "warmup_sources": [{
         "text": "Jackie Hawley (original source unknown)"
@@ -128,7 +128,7 @@
     },
     {
       "name": "tongue rolls",
-      "tags": ["vowels", "reduce tension"],
+      "tags": ["vowels", "loosen body"],
       "description": "Swirl your tongue in a circle in *front* of your teeth, then switch directions. Do enough circles such that your tongue is tired at the end and flops relaxed at the bottom of the mouth. To show why this is important, have the singers sing [a] and move the tip of the tongue forward/backward/up/down in the mouth to hear how much their sound changes when their tongue is in the way.",
        "warmup_sources": [
         {
@@ -202,7 +202,7 @@
     },
     {
       "name": "dog sounds",
-      "tags": ["registers", "silly", "reduce tension"],
+      "tags": ["registers", "silly", "loosen body"],
       "description": "Make various dog sounds: whimpers (highish pitches with lips closed), howls, deep loud woofs, etc. Get creative! Play with various sounds in various ranges of the voice. Bonus: dog panting is a great breathing exercise for the abdominal muscles.",
       "warmup_sources": [{
         "text": "unknown"
@@ -211,7 +211,7 @@
     },
     {
       "name": "ya-hoo ya-hee",
-      "tags": ["registers", "high notes"],
+      "tags": ["registers", "high notes", "technical flexibility"],
       "description": "Sing the below exercise three times: first time legato, second time staccato, and third time as if you were an opera singer.",
       "image": "ya-hoo-hee.png",
       "warmup_sources": [{
@@ -228,6 +228,112 @@
         "url": "https://www.sheetmusicplus.com/title/singing-in-tune-sheet-music/3969614"
       }],
       "love_because": "being aware of how much breath you have left, rationing it properly, and expanding lung capacity to hold more air, are all difficult skills and this efficiently works on them."
+    },
+    {
+      "name": "shoulders of gold",
+      "tags": ["loosen body"],
+      "description": "Lift the shoulders up to the ears. THen drop them suddenly as if they were filled with gold.",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #2",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it's so simple and effective. Many of us hold a lot of tension in our shoulders and this is one of the best ways to release it."
+    },
+    {
+      "name": "my Bonnie sits and stands",
+      "tags": ["silly", "loosen body", "brain puzzle"],
+      "description": "Sing the song 'My Bonnie' (by the Beatles) and every time a word begins with the letter B, change from sitting to standing. As the choir stands each time, ask them to 'lead themselves with their heads', leading their bodies up with the top of their heads rising first. Generally we interfere with our balance by working too hard to hold ourselves up, and leading with the head should help the body feel lighter and easier to change position. ",
+      "warmup_sources": [
+      {"text": "My Bonnie exercise from Jackie Hawley (original source unknown)"},
+      {
+        "text": "(commentary on leading with the head) Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #15",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it's surprisingly hard! There's often a bunch of smiles that come out of this exercise. It's also great for practicing sitting and standing efficiently. Good sitting posture in choir should result in being able to shift to standing very quickly."
+    },
+    {
+      "name": "laser pointer",
+      "tags": ["breath"],
+      "description": "Imagine the breath is like a laser beam which leaves the body and is aimed toward a small circle on the wall accross from you. Exhale on the sound 'pssssss'. Try the same exercise, pointing with your finger and pretending it is shooting the laser. Repeat, but singing a note on 'ooo', feeling the same breath support as before.",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #40",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "lasers are fun! This is also a great exercise for keeping breath intensity and support, which feels really nice in the body."
+    },
+    {
+      "name": "bug in the room",
+      "tags": ["breath", "resonance", "registers", "high notes", "low notes"],
+      "description": "Pretend there is an insect flying around the room. Buzz in a high-pitched piano sound on 's' or 'z'. Move up and down in pitch until the breath is gone. For example, you can use bumblebee sounds (low pitched 's', 'z', or 'v'). Follow the insect with your index finger and alternate between low and high pitched sounds. Let the insect also fly in circles. The buzzing sounds should indicate the shapes the bee is making.",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #43",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it's a great way to create sound in many different registers and with good breath support and with very little tension. There is no attention distracted by creating a beautiful sound, the focus is only on breath and resonance."
+    },
+    {
+      "name": "momomomo",
+      "tags": ["resonance", "diction"],
+      "description": "Sing the exercise below, keeping the lips of the mouth very relaxed and the space inside the mouth very open. Emphasize the first and third beats of the bar, and through not emphasizing every syllable you can keep the lips much more relaxed. You can also try other vowels such as 'ma ma ma ma'",
+      "image": "momomo.png",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #81",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it's very playful! I find that doing this exercise helps me both energize myself and relax my face. Also, quick exercises like these that imitate drumming create good resonance and help to close the vocal cords more efficiently."
+    },
+    {
+      "name": "minor leap and crescendo",
+      "tags": ["high notes", "dynamics"],
+      "description": "Sing the exercise below, making sure the lower sound is well supported so that when the leap is executed upward to the crescendo, that the necessary support is in place so that the sound can grow. Remember to drop the jaw when singing the leap. Along of 'ah' you can also use 'oo', 'ah', 'eh', 'ee'.",
+      "image": "minor_leap_cresc.png",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #102",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it uses a minor key! I wish many more warmups used key signatures that were not major."
+    },
+    {
+      "name": "long runs",
+      "tags": ["high notes", "technical flexibility", "registers", "vowels", "breath"],
+      "description": "Sing the exercise below, slowly at first and then increasing the tempo. Drop the jaw on higher pitches and close the mouth as the pitch descends. Instead of focusing on each individual note, sing all the notes as moving towards the first note of the next bar. As an extra challenge, sing the whole exercise in a single breath with excellent breath support.",
+      "image": "long_run.png",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #155",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "it's my favourite exercise to extend the length of the phrases I can sing in one breath. It's especially tricky because I have to save extra breath support for the higher notes, and have to support different pitches and vowel shapes equally throughout."
+    },
+    {
+      "name": "echo",
+      "tags": ["dynamics", "diction"],
+      "description": "Sing the exercise below, first forte as if calling out a group of people (strong diaphragm acivity), and then piano. When singing piano, keep the same support as when singing forte (like an echo). Double the volume of the consonants in a softer dynamic. Have the feeling that you sing the softer dynamic a little faster than the full dynamic, to keep the tempo steady.",
+      "image": "echo.png",
+      "warmup_sources": [{
+        "text": "Group Vocal Technique, The Vocalise Cards, by Frauke Haasemann and James M. Jordan, exercise #91 and #94 (words my own)",
+        "url": "https://www.jwpepper.com/1799147.item#/submit"
+      }],
+      "love_because": "call and response dynamics are common in music, and this warmup is a great way to practice it, keeping the intensity in the piano sections."
+    },
+    {
+      "name": "sing a little",
+      "tags": ["technical flexibility",  "registers", "diction", "breath"],
+      "description": "Sing the exercise below, thinking about moving the phrase forward and keeping the notes very light and bouncy. Make the consonants very clear. On the final tralala, keep the mouth open and only move the tongue to make the 'l' consonants. For an extra challenge, sing everything until the final tralala in a single breath.",
+      "image": "sing_tralala.png",
+      "warmup_sources": [{
+        "text": "Jackie Hawley (original source unknown)"
+      }],
+      "love_because": "singing about singing is my favourite text content!"
+    },
+    {
+      "name": "have you seen the ghost of John? (round)",
+      "tags": ["community building", "diction"],
+      "description": "Sing the exercise below, first in unison and then split into a round. Think about phrasing and diction (such that each part can be heard separately from the others if someone were to listen for it).",
+      "image": "ghost_round.png",
+      "warmup_sources": [{
+        "text": "Jackie Hawley (original source unknown)"
+      }],
+      "love_because": "rounds are a great way to build ensemble skills, and this one is a minor key which makes it extra great! (a lot of warmups are in major keys)"
     }
   ]
 }
